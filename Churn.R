@@ -1,5 +1,4 @@
-# Ekow Lewis
-# Yuecheng Fang
+
 churnR <- function(start_ind,
                    end_ind,
                    start_dep,
